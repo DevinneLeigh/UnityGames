@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 9fc447a5fbea0470b8b41a7532c92d84
+  m_SerializeEntries:
+  - m_GUID: 10483612dc26c1041b3d6687bd972505
+    m_Address: Assets/Idyllic Fantasy Nature/Materials/Grass/Grass_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1eed8c0c756ddc74a9c71c5d204fd2de
+    m_Address: Assets/Idyllic Fantasy Nature/Materials/Waterplants/Ocean.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31321ba15b8f8eb4c954353edc038b1d
+    m_Address: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72cc46bc7c9dfe4499ba6674a29a0b45
+    m_Address: Assets/Idyllic Fantasy Nature/Materials/Plants/Plant.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76ef7e3a05c197a4ca75eadeb25e8c48
+    m_Address: Assets/Idyllic Fantasy Nature/Materials/Grass/Grass_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cef103c3c4d4f3c48bac1eff7d881a62
+    m_Address: Assets/Idyllic Fantasy Nature/Materials/Flowers/Flower.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e85669880144e1f4ab0ee9d8a4abce6a
+    m_Address: Assets/Idyllic Fantasy Nature/Materials/Grass/Grass_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d06ba5aab4e1a4b0e8fb80bcd9e33419, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1cd4ee65daa3e43db8cf6d9ed41738b5, type: 2}
+    - {fileID: 11400000, guid: 7845afd5ce8904132960d876d2d84717, type: 2}
